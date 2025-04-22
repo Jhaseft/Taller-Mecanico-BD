@@ -9,7 +9,7 @@ INSERT INTO Auto VALUES ('1247ASQ', '76452345', 'Toyota', 'Rav 4', 'Gris');
 --Fallas
 INSERT INTO Fallas VALUES ('F0001', '8899KGD', 'Frenos', 'Chirrido al frenar', 'Media');
 INSERT INTO Fallas VALUES ('F0002', '4120AZQ', 'Motor', 'Pérdida de potencia', 'Alta');
-INSERT INTO Fallas VALUES ('F0003', 'STAVVC', 'Suspensión', 'Ruido en baches', 'Baja');
+INSERT INTO Fallas VALUES ('F0003', '1247ASQ', 'Suspensión', 'Ruido en baches', 'Baja');
 --Diagnosticos 
 INSERT INTO Diagnostico VALUES ('D00001', 'F0001', 'Pastillas de freno desgastadas al 80%');
 INSERT INTO Diagnostico VALUES ('D00002', 'F0002', 'Filtro de combustible obstruido');
